@@ -1,3 +1,3 @@
-##Developing SharePoint Server Advanced Solutions
+##Developing Managed MEtadata Solutions 6:05
 
 
