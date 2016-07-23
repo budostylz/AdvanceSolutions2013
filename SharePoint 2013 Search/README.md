@@ -39,7 +39,7 @@ https://technet.microsoft.com/en-us/library/jj219480.aspx
 https://msdn.microsoft.com/en-us/library/office/jj163982.aspx
 
 
--
+--------------------------------------------------------------------------
 
 ##Building search queries in SharePoint 2013(KQL, FQL Reference and SharePoint 2013 Search APIs)
 
@@ -57,7 +57,7 @@ https://msdn.microsoft.com/en-us/library/ms464040(v=office.14).aspx
 
 https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexing-of-a-site-a-library-or-a-list-9afa977d-39de-4321-b4ca-8c7c7e6d264e?ui=en-US&rs=en-US&ad=US&fromAR=1
 
--
+------------------------------------------------------
 
 ##PowerShell Commands to find Default location of Search Index
 
