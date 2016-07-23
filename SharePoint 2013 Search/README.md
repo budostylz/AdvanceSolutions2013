@@ -26,6 +26,10 @@ https://technet.microsoft.com/en-us/library/jj219620.aspx
 
 https://technet.microsoft.com/en-us/library/jj219480.aspx
 
+##How to: Use the Content Enrichment web service callout for SharePoint Server
+
+https://msdn.microsoft.com/en-us/library/office/jj163982.aspx
+
 
 --------------------------------------------------------------------------
 
