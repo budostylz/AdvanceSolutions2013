@@ -2,9 +2,24 @@
 
 https://msdn.microsoft.com/en-us/library/office/jj163300.aspx#bk_crawl
 
+##Plan enterprise search architecture in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/dn342836.aspx
+
 ##Create and configure a Search service application in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/gg502597.aspx
+
+##Configure result sources for search in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj683115.aspx
+
+##Plan to transform queries and order results in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/jj219620.aspx
+
+
+--------------------------------------------------------------------------
 
 ##Keyword Query Language (KQL) syntax reference
 
