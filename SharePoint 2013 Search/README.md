@@ -53,12 +53,14 @@ https://blogs.msdn.microsoft.com/sharepointdev/2012/11/13/customize-the-sharepoi
 
 https://msdn.microsoft.com/en-us/library/ms464040(v=office.14).aspx
 
+##Manually request crawling and re-indexing of a site, a library or a list
+
+https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexing-of-a-site-a-library-or-a-list-9afa977d-39de-4321-b4ca-8c7c7e6d264e?ui=en-US&rs=en-US&ad=US&fromAR=1
+
+------------------------------------------------------
+
 ##PowerShell Commands to find Default location of Search Index
 
 $ssi = Get-SPEnterpriseSearchServiceInstance 
 $ssi.Components | Select-Object IndexLocation
-
-##Manually request crawling and re-indexing of a site, a library or a list
-
-https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexing-of-a-site-a-library-or-a-list-9afa977d-39de-4321-b4ca-8c7c7e6d264e?ui=en-US&rs=en-US&ad=US&fromAR=1
 
