@@ -33,7 +33,7 @@ https://msdn.microsoft.com/en-us/library/office/jj163982.aspx
 
 --------------------------------------------------------------------------
 
-##Building search queries in SharePoint 2013(KQL and FQL Reference and SharePoint 2013 Search APIs)
+##Building search queries in SharePoint 2013(KQL, FQL Reference and SharePoint 2013 Search APIs)
 
 https://msdn.microsoft.com/library/jj163973.aspx
 
