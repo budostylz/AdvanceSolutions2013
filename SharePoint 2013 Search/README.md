@@ -10,6 +10,10 @@ https://technet.microsoft.com/en-us/library/dn342836.aspx
 
 https://technet.microsoft.com/en-us/library/gg502597.aspx
 
+##Create a Search Center site in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/hh582314.aspx
+
 ##Configure result sources for search in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj683115.aspx
@@ -18,20 +22,16 @@ https://technet.microsoft.com/en-us/library/jj683115.aspx
 
 https://technet.microsoft.com/en-us/library/jj219620.aspx
 
+##Create and deploy custom entity extractors in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj219480.aspx
+
 
 --------------------------------------------------------------------------
 
-##Keyword Query Language (KQL) syntax reference
+##Building search queries in SharePoint 2013(KQL and FQL Reference and SharePoint 2013 Search APIs)
 
-https://msdn.microsoft.com/en-us/library/office/ee558911.aspx
-
-##FAST Query Language (FQL) syntax reference
-
-https://msdn.microsoft.com/en-us/library/office/ff394606.aspx
-
-##Using the SharePoint 2013 search Query APIs
-
-https://msdn.microsoft.com/en-us/library/office/dn423226.aspx
+https://msdn.microsoft.com/library/jj163973.aspx
 
 ##Customize the SharePoint 2013 search experience with a Content Enrichment web service
 
