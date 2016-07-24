@@ -57,6 +57,10 @@ https://msdn.microsoft.com/en-us/library/ms464040(v=office.14).aspx
 
 https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexing-of-a-site-a-library-or-a-list-9afa977d-39de-4321-b4ca-8c7c7e6d264e?ui=en-US&rs=en-US&ad=US&fromAR=1
 
+##SharePoint 2013: Querying Search with the JavaScript Client Object Model
+
+https://code.msdn.microsoft.com/sharepoint-2013-querying-a629b53b
+
 ------------------------------------------------------
 
 ##PowerShell Commands to find Default location of Search Index
