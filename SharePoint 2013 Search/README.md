@@ -38,16 +38,20 @@ https://technet.microsoft.com/en-us/library/jj219480.aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj163982.aspx
 
+##Customize the SharePoint 2013 search experience with a Content Enrichment web service
+
+https://blogs.msdn.microsoft.com/sharepointdev/2012/11/13/customize-the-sharepoint-2013-search-experience-with-a-content-enrichment-web-service/
+
+##Create and deploy a thesaurus in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj219579.aspx
+
 
 --------------------------------------------------------------------------
 
 ##Building search queries in SharePoint 2013(KQL, FQL Reference and SharePoint 2013 Search APIs)
 
 https://msdn.microsoft.com/library/jj163973.aspx
-
-##Customize the SharePoint 2013 search experience with a Content Enrichment web service
-
-https://blogs.msdn.microsoft.com/sharepointdev/2012/11/13/customize-the-sharepoint-2013-search-experience-with-a-content-enrichment-web-service/
 
 ##Walkthrough: Creating a Custom ASP.NET Web Service
 
