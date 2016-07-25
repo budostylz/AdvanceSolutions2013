@@ -6,6 +6,10 @@ https://msdn.microsoft.com/en-us/library/office/jj163300.aspx#bk_crawl
 
 https://technet.microsoft.com/en-us/library/dn342836.aspx
 
+##Manage the search topology in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj219705.aspx
+
 ##Overview of the search schema in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj219669.aspx#mps_map
