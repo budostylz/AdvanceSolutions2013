@@ -16,7 +16,7 @@ http://www.odata.org
 
 https://msdn.microsoft.com/en-us/library/office/jj163810.aspx
 
-####Deploy a Business Connectivity Services on-premises solution in SharePoint 2013
+##Deploy a Business Connectivity Services on-premises solution in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/jj219584.aspx
 
