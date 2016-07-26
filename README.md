@@ -33,6 +33,10 @@ http://www.u2u.be/Software
 
 https://technet.microsoft.com/en-us/library/dn659286.aspx
 
+##Manage service applications in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/ee704544.aspx
+
 
 
 
