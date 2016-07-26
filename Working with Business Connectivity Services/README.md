@@ -20,6 +20,14 @@ https://msdn.microsoft.com/en-us/library/office/jj163810.aspx
 
 https://technet.microsoft.com/en-us/library/jj219584.aspx
 
+##Configure the Secure Store Service in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/ee806866(v=office.15)
+
+##External events and alerts in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/jj164024.aspx
+
 
 ---------------------------------------------------------------------
 
@@ -30,6 +38,11 @@ Configure Domain Controller(AD)
 2. Create a user account that will have access to the database(external source) shich will be stored in Secure Store
 
 3. Create group of authorized users(Credential Owners)
+
+Configure SQL Logins(Refer to Video in Configure the Secure Store Service in SharePoint 2013)
+
+1. Login Names Point to Database Access Group
+2. Configure User Mappings
 
 Create Secure Store
 
