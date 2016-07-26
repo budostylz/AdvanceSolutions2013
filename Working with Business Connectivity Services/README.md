@@ -28,6 +28,14 @@ https://technet.microsoft.com/en-us/library/ee806866(v=office.15)
 
 https://msdn.microsoft.com/en-us/library/office/jj164024.aspx
 
+##Enhancing the BDC model file for Search in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/gg294165.aspx
+
+##Search connector framework in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/ee556429.aspx
+
 
 ---------------------------------------------------------------------
 
