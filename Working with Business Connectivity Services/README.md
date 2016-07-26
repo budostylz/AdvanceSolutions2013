@@ -9,6 +9,7 @@ https://msdn.microsoft.com/en-us/library/office/jj163906.aspx
 ##OData
 
 http://www.odata.org
+
 ---------------------------------------------------------------------
 
 ##How to: Create an OData data service for use as a BCS external system
