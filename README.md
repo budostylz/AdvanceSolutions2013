@@ -1,5 +1,12 @@
 #Developing SharePoint Server Advanced Solutions
 
+##SharePoint 2013 development overview
+
+https://msdn.microsoft.com/en-us/library/office/jj164084.aspx
+
+##Solutions for the real world in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/ff872147.aspx
 
 ##How to: Track Your Code by Customizing the Scrollbar
 
@@ -32,6 +39,10 @@ https://technet.microsoft.com/en-us/library/dn659286.aspx
 ##Manage service applications in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/ee704544.aspx
+
+##_SPBODYONLOADFUNCTIONNAMES IN SHAREPOINT VS. JQUERY’S DOCUMENT READY
+
+http://www.stephanrocks.com/2011/10/05/_spbodyonloadfunctionnames-in-sharepoint-vs-jquerys-document-ready/
 
 
 
