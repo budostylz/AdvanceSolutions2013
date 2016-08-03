@@ -69,6 +69,14 @@ https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexi
 
 https://code.msdn.microsoft.com/sharepoint-2013-querying-a629b53b
 
+##Managed Metadata Navigation Video
+
+https://www.youtube.com/watch?v=7ICmKCSGS7M
+
+##Overview of managed navigation in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/dn194311.aspx
+
 ------------------------------------------------------
 
 ##PowerShell Commands to find Default location of Search Index
