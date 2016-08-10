@@ -45,7 +45,7 @@ https://technet.microsoft.com/en-us/library/ee704544.aspx
 http://www.stephanrocks.com/2011/10/05/_spbodyonloadfunctionnames-in-sharepoint-vs-jquerys-document-ready/
 
 
------------------------Labs-----------------------------------------------
+##-----------------------Labs-----------------------------------------------
 
 
 ##SharePoint 2013: SharePoint Health Score and Throttling deep dive
@@ -79,6 +79,16 @@ https://msdn.microsoft.com/en-us/library/office/jj862340.aspx
 ##Variations overview in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/ff628966.aspx
+
+##Developer Dashboard in SharePoint  2013
+
+http://www.sharepoint-journey.com/developer-dashboard-in-sharepoint-2013.html
+
+
+
+
+
+
 
 
 
