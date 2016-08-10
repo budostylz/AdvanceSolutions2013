@@ -72,6 +72,16 @@ https://github.com/budostylz/AdvanceSolutions2013/edit/master/README.md
 
 https://msdn.microsoft.com/en-us/library/office/jj822368.aspx
 
+##How to: Add a Device Channel Panel snippet in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/jj862340.aspx
+
+##Variations overview in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/ff628966.aspx
+
+
+
 
 
 
