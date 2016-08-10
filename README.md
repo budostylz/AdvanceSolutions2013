@@ -68,6 +68,12 @@ https://content.sharepointeurope.com/blog/2013/11/21/how-to-create-a-custom-docu
 
 https://github.com/budostylz/AdvanceSolutions2013/edit/master/README.md
 
+##How to: Create a page layout in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/jj822368.aspx
+
+
+
 
 
 
