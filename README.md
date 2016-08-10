@@ -64,6 +64,12 @@ https://technet.microsoft.com/en-us/library/jj219480.aspx
 
 https://content.sharepointeurope.com/blog/2013/11/21/how-to-create-a-custom-document-id-provider-with-sharepoint-2013
 
+##Plan for information management policy in SharePoint Server 2013
+
+https://github.com/budostylz/AdvanceSolutions2013/edit/master/README.md
+
+
+
 
 
 
