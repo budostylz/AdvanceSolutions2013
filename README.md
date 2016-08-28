@@ -45,6 +45,62 @@ https://technet.microsoft.com/en-us/library/ee704544.aspx
 http://www.stephanrocks.com/2011/10/05/_spbodyonloadfunctionnames-in-sharepoint-vs-jquerys-document-ready/
 
 
+##-----------------------Labs-----------------------------------------------
+
+
+##SharePoint 2013: SharePoint Health Score and Throttling deep dive
+
+http://www.wictorwilen.se/sharepoint-2013-sharepoint-health-score-and-throttling-deep-dive
+
+##Deploying Managed Metadata Fields declaratively in SharePoint 2013 Online (Office 365)
+
+http://geeks.ms/lmanez/2013/08/29/deploying-managed-metadata-fields-declaratively-in-sharepoint-2013-online-office-365/
+
+##Create and deploy custom entity extractors in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj219480.aspx
+
+##How to Create a Custom Document-ID Provider with SharePoint 2013
+
+https://content.sharepointeurope.com/blog/2013/11/21/how-to-create-a-custom-document-id-provider-with-sharepoint-2013
+
+##Plan for information management policy in SharePoint Server 2013
+
+https://github.com/budostylz/AdvanceSolutions2013/edit/master/README.md
+
+##How to: Create a page layout in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/jj822368.aspx
+
+##How to: Add a Device Channel Panel snippet in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/jj862340.aspx
+
+##Variations overview in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/ff628966.aspx
+
+##Developer Dashboard in SharePoint  2013
+
+http://www.sharepoint-journey.com/developer-dashboard-in-sharepoint-2013.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
