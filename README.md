@@ -84,6 +84,14 @@ https://technet.microsoft.com/en-us/library/ff628966.aspx
 
 http://www.sharepoint-journey.com/developer-dashboard-in-sharepoint-2013.html
 
+##Hardware and software requirements for SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/cc262485.aspx
+
+##Creating SharePoint Farm Environment using VMWare Player
+
+http://tanveerkhan-sharepoint.blogspot.com/2015/06/creating-sharepoint-farm-environment.html?m=1
+
 
 
 
