@@ -1,5 +1,3 @@
-##SharePoint 2013: SharePoint Health Score and Throttling deep dive
-
 ##Create and manage terms in a term set
 
 https://support.office.com/en-us/article/Create-and-manage-terms-in-a-term-set-549070a7-41c2-4210-9e9c-5fad22bd8748?ui=en-US&rs=en-US&ad=US
