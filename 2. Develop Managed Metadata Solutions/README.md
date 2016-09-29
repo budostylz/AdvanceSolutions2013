@@ -12,5 +12,20 @@ https://blogs.msdn.microsoft.com/richard_dizeregas_blog/2014/03/13/taxonomy-pick
 
 http://sureshpydi.blogspot.in/2013/04/sharepoint-2013-create-term-set-terms.html
 
+##Programmatically Create a Managed Metadata List Column (Mohammed Faizan)
+
+https://blogs.msdn.microsoft.com/sharepointdev/2012/04/16/programmatically-create-a-managed-metadata-list-column-mohammed-faizan/
+
+
+------------------------------------------------------
+
+##Create SharePoint Provider Hosted Add-In
+
+Get started creating provider-hosted SharePoint Add-ins
+
+
+##SharePoint 2013 Apps: Accessing Data in the Host Web in a SharePoint-Hosted App
+
+https://blog-wp.appliedis.com/2012/12/19/sharepoint-2013-apps-accessing-data-in-the-host-web-in-a-sharepoint-hosted-app/
 
 
