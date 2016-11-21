@@ -1,3 +1,4 @@
+
 ##The Social Architecture in SharePoint 2013
 
 http://blog.sharedove.com/adisjugo/index.php/2013/04/18/the-social-architecture-in-sharepoint-2013/
@@ -17,6 +18,10 @@ https://msdn.microsoft.com/en-us/library/office/jj163280.aspx
 ##SP.Social namespace (sp.userprofiles)
 
 https://msdn.microsoft.com/en-us/library/office/jj628683.aspx
+
+##Get started developing with social features in SharePoint 2013
+
+https://msdn.microsoft.com/en-us/library/office/jj163864.aspx
 
 
 
