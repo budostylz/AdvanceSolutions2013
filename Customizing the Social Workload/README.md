@@ -1,4 +1,5 @@
 
+
 ##The Social Architecture in SharePoint 2013
 
 http://blog.sharedove.com/adisjugo/index.php/2013/04/18/the-social-architecture-in-sharepoint-2013/
@@ -22,6 +23,11 @@ https://msdn.microsoft.com/en-us/library/office/jj628683.aspx
 ##Get started developing with social features in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/jj163864.aspx
+
+##Use tags and notes to share information with colleagues
+
+https://support.office.com/en-us/article/Use-tags-and-notes-to-share-information-with-colleagues-18e87002-a0bb-473f-9959-358f42be8d03#__toc283988548
+
 
 
 
