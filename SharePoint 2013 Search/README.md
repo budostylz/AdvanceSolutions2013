@@ -20,6 +20,7 @@ https://technet.microsoft.com/en-us/library/jj219630.aspx
 
 ##Create and configure a Search service application in SharePoint Server 2013
 
+
 https://technet.microsoft.com/en-us/library/gg502597.aspx
 
 ##Create a Search Center site in SharePoint Server 2013
@@ -51,6 +52,7 @@ https://blogs.msdn.microsoft.com/sharepointdev/2012/11/13/customize-the-sharepoi
 https://technet.microsoft.com/en-us/library/jj219579.aspx
 
 
+
 --------------------------------------------------------------------------
 
 ##Building search queries in SharePoint 2013(KQL, FQL Reference and SharePoint 2013 Search APIs)
@@ -76,6 +78,10 @@ https://www.youtube.com/watch?v=7ICmKCSGS7M
 ##Overview of managed navigation in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/dn194311.aspx
+
+##SharePoint 2013 Design Manager display templates
+
+https://msdn.microsoft.com/en-us/library/office/jj945138.aspx
 
 ------------------------------------------------------
 
