@@ -83,6 +83,10 @@ https://technet.microsoft.com/en-us/library/dn194311.aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj945138.aspx
 
+##Display template reference in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj944947.aspx
+
 ------------------------------------------------------
 
 ##PowerShell Commands to find Default location of Search Index
