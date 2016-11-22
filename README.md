@@ -1,5 +1,10 @@
 #Developing SharePoint Server Advanced Solutions
 
+
+##Taxonomy (general)
+
+https://en.wikipedia.org/wiki/Taxonomy_(general)
+
 ##SharePoint 2013 development overview
 
 https://msdn.microsoft.com/en-us/library/office/jj164084.aspx
