@@ -13,3 +13,8 @@ https://absolute-sharepoint.com/2013/02/step-by-step-guide-to-configure-the-mana
 ##Connect a publishing site to a catalog in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj679901.aspx
+
+
+##Taxonomy operations sample app for SharePoint
+
+https://msdn.microsoft.com/en-us/pnp_articles/taxonomy-operations-sample-app-for-sharepoint
