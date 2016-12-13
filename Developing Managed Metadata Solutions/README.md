@@ -18,3 +18,7 @@ https://technet.microsoft.com/en-us/library/jj679901.aspx
 ##Taxonomy operations sample app for SharePoint
 
 https://msdn.microsoft.com/en-us/pnp_articles/taxonomy-operations-sample-app-for-sharepoint
+
+##CSOM get all terms recursively in a single ExecuteQuery
+
+http://www.ceus-now.com/csom-get-all-terms-recursively-in-a-single-executequery/
