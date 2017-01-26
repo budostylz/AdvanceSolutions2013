@@ -96,4 +96,8 @@ $ssi.Components | Select-Object IndexLocation
 
 ##SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-1
 
-https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-1/
+https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-1/ 
+
+##SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-2
+
+https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-2/
