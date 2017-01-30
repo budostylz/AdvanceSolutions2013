@@ -29,7 +29,9 @@ https://msdn.microsoft.com/en-us/library/office/jj163864.aspx
 https://support.office.com/en-us/article/Use-tags-and-notes-to-share-information-with-colleagues-18e87002-a0bb-473f-9959-358f42be8d03#__toc283988548
 
 
+##Yammer Embed Feed
 
+https://developer.yammer.com/v1.0/docs/embed
 
 
 
