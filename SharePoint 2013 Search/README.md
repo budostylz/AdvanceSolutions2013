@@ -1,53 +1,52 @@
-##Search in SharePoint 2013
+## Search in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/jj163300.aspx#bk_crawl
 
-##Plan enterprise search architecture in SharePoint Server 2013
+## Plan enterprise search architecture in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/dn342836.aspx
 
-##Manage the search topology in SharePoint Server 2013
+## Manage the search topology in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj219705.aspx
 
-##Overview of the search schema in SharePoint Server 2013
+## Overview of the search schema in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj219669.aspx#mps_map
 
-##Overview of crawled and managed properties in SharePoint Server 2013
+## Overview of crawled and managed properties in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj219630.aspx
 
-##Create and configure a Search service application in SharePoint Server 2013
+## Create and configure a Search service application in SharePoint Server 2013
 
 
 https://technet.microsoft.com/en-us/library/gg502597.aspx
 
-##Create a Search Center site in SharePoint Server 2013
+## Create a Search Center site in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/hh582314.aspx
 
-##Configure result sources for search in SharePoint Server 2013
-
+## Configure result sources for search in SharePoint Server 2013
 https://technet.microsoft.com/en-us/library/jj683115.aspx
 
-##Plan to transform queries and order results in SharePoint 2013
+## Plan to transform queries and order results in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/jj219620.aspx
 
-##Create and deploy custom entity extractors in SharePoint Server 2013
+## Create and deploy custom entity extractors in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj219480.aspx
 
-##How to: Use the Content Enrichment web service callout for SharePoint Server
+## How to: Use the Content Enrichment web service callout for SharePoint Server
 
 https://msdn.microsoft.com/en-us/library/office/jj163982.aspx
 
-##Customize the SharePoint 2013 search experience with a Content Enrichment web service
+## Customize the SharePoint 2013 search experience with a Content Enrichment web service
 
 https://blogs.msdn.microsoft.com/sharepointdev/2012/11/13/customize-the-sharepoint-2013-search-experience-with-a-content-enrichment-web-service/
 
-##Create and deploy a thesaurus in SharePoint Server 2013
+## Create and deploy a thesaurus in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj219579.aspx
 
@@ -55,49 +54,53 @@ https://technet.microsoft.com/en-us/library/jj219579.aspx
 
 --------------------------------------------------------------------------
 
-##Building search queries in SharePoint 2013(KQL, FQL Reference and SharePoint 2013 Search APIs)
+## Building search queries in SharePoint 2013(KQL, FQL Reference and SharePoint 2013 Search APIs)
 
 https://msdn.microsoft.com/library/jj163973.aspx
 
-##Walkthrough: Creating a Custom ASP.NET Web Service
+## Walkthrough: Creating a Custom ASP.NET Web Service
 
 https://msdn.microsoft.com/en-us/library/ms464040(v=office.14).aspx
 
-##Manually request crawling and re-indexing of a site, a library or a list
+## Manually request crawling and re-indexing of a site, a library or a list
 
 https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexing-of-a-site-a-library-or-a-list-9afa977d-39de-4321-b4ca-8c7c7e6d264e?ui=en-US&rs=en-US&ad=US&fromAR=1
 
-##SharePoint 2013: Querying Search with the JavaScript Client Object Model
+## SharePoint 2013: Querying Search with the JavaScript Client Object Model
 
 https://code.msdn.microsoft.com/sharepoint-2013-querying-a629b53b
 
-##Managed Metadata Navigation Video
+## Managed Metadata Navigation Video
 
 https://www.youtube.com/watch?v=7ICmKCSGS7M
 
-##Overview of managed navigation in SharePoint Server 2013
+## Overview of managed navigation in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/dn194311.aspx
 
-##SharePoint 2013 Design Manager display templates
+## SharePoint 2013 Design Manager display templates
 
 https://msdn.microsoft.com/en-us/library/office/jj945138.aspx
 
-##Display template reference in SharePoint Server 2013
+## Display template reference in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj944947.aspx
 
 ------------------------------------------------------
 
-##PowerShell Commands to find Default location of Search Index
+## PowerShell Commands to find Default location of Search Index
 
 $ssi = Get-SPEnterpriseSearchServiceInstance 
 $ssi.Components | Select-Object IndexLocation
 
-##SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-1
+## SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-1
 
 https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-1/ 
 
-##SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-2
+## SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-2
 
 https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-2/
+
+## SharePoint 2013 Leverage Search to roll up images
+
+https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to-roll-up-images#.WOeLymYzXct
