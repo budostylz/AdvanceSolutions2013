@@ -1,42 +1,44 @@
-##Overview of Business Connectivity Services in SharePoint 2013
+## Overview of Business Connectivity Services in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/jj219584.aspx
 
-##BDC model schema reference for SharePoint 2013
+## BDC model schema reference for SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/jj163906.aspx
 
-##OData
+## OData
 
 http://www.odata.org
 
 ---------------------------------------------------------------------
 
-##How to: Create an OData data service for use as a BCS external system
+## How to: Create an OData data service for use as a BCS external system
 
 https://msdn.microsoft.com/en-us/library/office/jj163810.aspx
 
-##Deploy a Business Connectivity Services on-premises solution in SharePoint 2013
+## Deploy a Business Connectivity Services on-premises solution in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/jj219584.aspx
 
-##Configure the Secure Store Service in SharePoint 2013
+## Configure the Secure Store Service in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/ee806866(v=office.15)
 
-##External events and alerts in SharePoint 2013
+## External events and alerts in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/jj164024.aspx
 
-##Enhancing the BDC model file for Search in SharePoint 2013
+## Enhancing the BDC model file for Search in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/gg294165.aspx
 
-##Search connector framework in SharePoint 2013
+## Search connector framework in SharePoint 2013
 
 https://msdn.microsoft.com/en-us/library/office/ee556429.aspx
 
+## When to Use SharePoint Designer vs. Visual Studio When Building Solutions Using BCS
 
+https://msdn.microsoft.com/en-us/library/office/ee558875(v=office.14).aspx
 ---------------------------------------------------------------------
 
 Configure Domain Controller(AD)
