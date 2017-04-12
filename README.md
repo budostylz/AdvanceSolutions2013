@@ -97,7 +97,9 @@ https://technet.microsoft.com/en-us/library/cc262485.aspx
 
 http://tanveerkhan-sharepoint.blogspot.com/2015/06/creating-sharepoint-farm-environment.html?m=1
 
+## Managed Metadata Columns in Office 2007
 
+http://www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-office-2007-aspx-2/
 
 
 
