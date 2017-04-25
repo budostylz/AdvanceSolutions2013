@@ -100,9 +100,7 @@ http://tanveerkhan-sharepoint.blogspot.com/2015/06/creating-sharepoint-farm-envi
 
 http://www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-office-2007-aspx-2/
 
-## Create and manage terms within term sets
 
-https://support.office.com/en-us/article/Create-and-manage-terms-within-term-sets-66b8e643-6234-4447-946e-e369112d2320#__toc266880361
 
 
 
