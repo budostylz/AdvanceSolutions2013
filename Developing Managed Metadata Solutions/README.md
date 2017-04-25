@@ -25,4 +25,8 @@ http://www.ceus-now.com/csom-get-all-terms-recursively-in-a-single-executequery/
 
 ## Pin Term Versus Reuse Terms in SharePoint 2013
 
-http://www.c-sharpcorner.com/UploadFile/anavijai/pin-term-versus-reuse-terms-in-sharepoint-2013/
+http://www.c-sharpcorner.com/UploadFile/anavijai/pin-term-versus-reuse-terms-in-sharepoint-2013/ 
+
+## Create and manage terms within term sets
+
+https://support.office.com/en-us/article/Create-and-manage-terms-within-term-sets-66b8e643-6234-4447-946e-e369112d2320#__toc266880361
