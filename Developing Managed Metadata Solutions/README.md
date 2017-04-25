@@ -22,3 +22,7 @@ https://msdn.microsoft.com/en-us/pnp_articles/taxonomy-operations-sample-app-for
 ## CSOM get all terms recursively in a single ExecuteQuery
 
 http://www.ceus-now.com/csom-get-all-terms-recursively-in-a-single-executequery/
+
+## Pin Term Versus Reuse Terms in SharePoint 2013
+
+http://www.c-sharpcorner.com/UploadFile/anavijai/pin-term-versus-reuse-terms-in-sharepoint-2013/
