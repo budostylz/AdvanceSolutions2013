@@ -52,7 +52,6 @@ http://www.stephanrocks.com/2011/10/05/_spbodyonloadfunctionnames-in-sharepoint-
 
 ##-----------------------Labs-----------------------------------------------
 
-
 ## SharePoint 2013: SharePoint Health Score and Throttling deep dive
 
 http://www.wictorwilen.se/sharepoint-2013-sharepoint-health-score-and-throttling-deep-dive
@@ -61,7 +60,7 @@ http://www.wictorwilen.se/sharepoint-2013-sharepoint-health-score-and-throttling
 
 http://geeks.ms/lmanez/2013/08/29/deploying-managed-metadata-fields-declaratively-in-sharepoint-2013-online-office-365/
 
-## Create and deploy custom entity extractors in SharePoint Server 2013
+ ## Create and deploy custom entity extractors in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj219480.aspx
 
@@ -101,7 +100,9 @@ http://tanveerkhan-sharepoint.blogspot.com/2015/06/creating-sharepoint-farm-envi
 
 http://www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-office-2007-aspx-2/
 
+## Create and manage terms within term sets
 
+https://support.office.com/en-us/article/Create-and-manage-terms-within-term-sets-66b8e643-6234-4447-946e-e369112d2320#__toc266880361
 
 
 
