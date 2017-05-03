@@ -112,3 +112,7 @@ https://blog.metrostarsystems.com/2011/10/03/jennys-sharepoint-tip-rollup-items-
 ## Creating a Document Rollup Using SharePoint 2013 Search
 
 https://blog.metrostarsystems.com/2016/04/21/creating-document-rollup-using-sharepoint-2013-search/ 
+ 
+## sharepoint enterprise - Include document sets in search results - SharePoint Stack Exchange
+
+https://sharepoint.stackexchange.com/questions/167292/include-document-sets-in-search-results
