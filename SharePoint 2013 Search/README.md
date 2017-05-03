@@ -61,7 +61,6 @@ https://msdn.microsoft.com/library/jj163973.aspx
 ## Walkthrough: Creating a Custom ASP.NET Web Service
 
 https://msdn.microsoft.com/en-us/library/ms464040(v=office.14).aspx
-
 ## Manually request crawling and re-indexing of a site, a library or a list
 
 https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexing-of-a-site-a-library-or-a-list-9afa977d-39de-4321-b4ca-8c7c7e6d264e?ui=en-US&rs=en-US&ad=US&fromAR=1
@@ -69,6 +68,7 @@ https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexi
 ## SharePoint 2013: Querying Search with the JavaScript Client Object Model
 
 https://code.msdn.microsoft.com/sharepoint-2013-querying-a629b53b
+
 
 ## Managed Metadata Navigation Video
 
@@ -116,3 +116,7 @@ https://blog.metrostarsystems.com/2016/04/21/creating-document-rollup-using-shar
 ## sharepoint enterprise - Include document sets in search results - SharePoint Stack Exchange
 
 https://sharepoint.stackexchange.com/questions/167292/include-document-sets-in-search-results
+
+## What makes a SharePoint column searchable?
+
+http://www.techmikael.com/2014/07/what-makes-sharepoint-column-searchable.html
