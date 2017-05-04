@@ -72,7 +72,6 @@ https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexi
 https://www.youtube.com/watch?v=7ICmKCSGS7M
 
 ## Overview of managed navigation in SharePoint Server 2013
-
 https://technet.microsoft.com/en-us/library/dn194311.aspx
 
 ## SharePoint 2013 Design Manager display templates
@@ -82,7 +81,7 @@ https://msdn.microsoft.com/en-us/library/office/jj945138.aspx
  ## Display template reference in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj944947.aspx
-
+ 
 ------------------------------------------------------
 
 ## PowerShell Commands to find Default location of Search Index
@@ -145,3 +144,7 @@ https://technet.microsoft.com/en-in/library/jj683123.aspx
 ## Content Search Web Part does not display search results for anonymous users
 
 https://support.microsoft.com/en-us/help/3024778/content-search-web-part-does-not-display-search-results-for-anonymous-users
+
+## Sorting Search Results by Managed Metadata Properties
+
+https://www.itunity.com/article/sorting-search-results-managed-metadata-properties-1187
