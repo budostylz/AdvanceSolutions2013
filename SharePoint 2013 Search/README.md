@@ -134,3 +134,7 @@ http://sympmarc.com/2012/08/03/changing-a-managed-metadata-column-to-allow-multi
 ## Getting past the CSWP item limit of 50 results
 
 https://www.eliostruyf.com/getting-past-the-cswp-item-limit-of-50-results/
+ 
+## Automatically created managed properties in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj613136(v=office.15).aspx
