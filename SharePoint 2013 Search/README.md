@@ -91,7 +91,6 @@ $ssi.Components | Select-Object IndexLocation
 ## SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-1
 
 https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-1/ 
-
 ## SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-2
 
 https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-2/
@@ -102,7 +101,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
 
 ## Jenny’s SharePoint Tip: Rollup items across a site collection by creating a cross list data view web part.
 
-https://blog.metrostarsystems.com/2011/10/03/jennys-sharepoint-tip-rollup-items-across-a-site-collection-by-creating-a-cross-list-data-view-web-part/
+ https://blog.metrostarsystems.com/2011/10/03/jennys-sharepoint-tip-rollup-items-across-a-site-collection-by-creating-a-cross-list-data-view-web-part/
 
 ## Creating a Document Rollup Using SharePoint 2013 Search
 
@@ -151,3 +150,7 @@ https://www.itunity.com/article/sorting-search-results-managed-metadata-properti
 ## Making SharePoint Search Results Even Better For Your Users 
 
 https://www.cardinalsolutions.com/blog/2016/03/making-sharepoint-search-results-even-better-for-your-users
+
+## Displaying SharePoint 2013 Search Results in a Table
+
+https://www.itunity.com/blog/displaying-sharepoint-2013-search-results-table-877
