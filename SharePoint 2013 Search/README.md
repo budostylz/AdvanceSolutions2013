@@ -43,7 +43,6 @@ https://technet.microsoft.com/en-us/library/jj219480.aspx
 https://msdn.microsoft.com/en-us/library/office/jj163982.aspx
 
 ## Customize the SharePoint 2013 search experience with a Content Enrichment web service
-
 https://blogs.msdn.microsoft.com/sharepointdev/2012/11/13/customize-the-sharepoint-2013-search-experience-with-a-content-enrichment-web-service/
 
 ## Create and deploy a thesaurus in SharePoint Server 2013
@@ -53,7 +52,7 @@ https://technet.microsoft.com/en-us/library/jj219579.aspx
 
 
 --------------------------------------------------------------------------
-
+ 
 ## Building search queries in SharePoint 2013(KQL, FQL Reference and SharePoint 2013 Search APIs)
 
 https://msdn.microsoft.com/library/jj163973.aspx
@@ -120,3 +119,11 @@ https://sharepoint.stackexchange.com/questions/167292/include-document-sets-in-s
 ## What makes a SharePoint column searchable?
 
 http://www.techmikael.com/2014/07/what-makes-sharepoint-column-searchable.html
+
+## Corey Roth [MVP]
+
+http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2013/01/08/no-metadata-no-problem-custom-entity-extraction-in-sharepoint-2013.aspx
+
+## Create and deploy custom entity extractors in SharePoint Server 2013
+
+https://technet.microsoft.com/en-US/library/jj219480(v=office.15).aspx
