@@ -96,7 +96,6 @@ https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint
 https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-2/
 
 ## SharePoint 2013 Leverage Search to roll up images
-
 https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to-roll-up-images#.WOeLymYzXct
 
 ## Jenny’s SharePoint Tip: Rollup items across a site collection by creating a cross list data view web part.
@@ -106,7 +105,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
 ## Creating a Document Rollup Using SharePoint 2013 Search
 
 https://blog.metrostarsystems.com/2016/04/21/creating-document-rollup-using-sharepoint-2013-search/ 
- 
+  
 ## sharepoint enterprise - Include document sets in search results - SharePoint Stack Exchange
 
 https://sharepoint.stackexchange.com/questions/167292/include-document-sets-in-search-results
@@ -154,3 +153,7 @@ https://www.cardinalsolutions.com/blog/2016/03/making-sharepoint-search-results-
 ## Displaying SharePoint 2013 Search Results in a Table
 
 https://www.itunity.com/blog/displaying-sharepoint-2013-search-results-table-877
+
+##Corey Roth [MVP]
+
+http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2014/02/20/spc14-post-using-display-templates-to-format-search-results-as-a-grid.aspx
