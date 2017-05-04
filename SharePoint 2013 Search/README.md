@@ -127,3 +127,7 @@ http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2013/01/08/no-metadat
 ## Create and deploy custom entity extractors in SharePoint Server 2013
 
 https://technet.microsoft.com/en-US/library/jj219480(v=office.15).aspx
+
+## Changing a Managed Metadata Site Column to Allow Multiple Values
+
+http://sympmarc.com/2012/08/03/changing-a-managed-metadata-column-to-allow-multiple-values/
