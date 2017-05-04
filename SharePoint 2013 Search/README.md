@@ -70,7 +70,6 @@ https://code.msdn.microsoft.com/sharepoint-2013-querying-a629b53b
 
 
 ## Managed Metadata Navigation Video
-
 https://www.youtube.com/watch?v=7ICmKCSGS7M
 
 ## Overview of managed navigation in SharePoint Server 2013
@@ -81,7 +80,7 @@ https://technet.microsoft.com/en-us/library/dn194311.aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj945138.aspx
 
-## Display template reference in SharePoint Server 2013
+ ## Display template reference in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj944947.aspx
 
@@ -131,3 +130,7 @@ https://technet.microsoft.com/en-US/library/jj219480(v=office.15).aspx
 ## Changing a Managed Metadata Site Column to Allow Multiple Values
 
 http://sympmarc.com/2012/08/03/changing-a-managed-metadata-column-to-allow-multiple-values/
+
+## Getting past the CSWP item limit of 50 results
+
+https://www.eliostruyf.com/getting-past-the-cswp-item-limit-of-50-results/
