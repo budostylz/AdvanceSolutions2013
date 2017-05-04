@@ -154,6 +154,6 @@ https://www.cardinalsolutions.com/blog/2016/03/making-sharepoint-search-results-
 
 https://www.itunity.com/blog/displaying-sharepoint-2013-search-results-table-877
 
-##Corey Roth [MVP]
+## Corey Roth [MVP] 
 
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2014/02/20/spc14-post-using-display-templates-to-format-search-results-as-a-grid.aspx
