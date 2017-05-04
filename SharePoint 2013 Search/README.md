@@ -56,7 +56,6 @@ https://technet.microsoft.com/en-us/library/jj219579.aspx
 ## Building search queries in SharePoint 2013(KQL, FQL Reference and SharePoint 2013 Search APIs)
 
 https://msdn.microsoft.com/library/jj163973.aspx
-
 ## Walkthrough: Creating a Custom ASP.NET Web Service
 
 https://msdn.microsoft.com/en-us/library/ms464040(v=office.14).aspx
@@ -66,7 +65,7 @@ https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexi
 
 ## SharePoint 2013: Querying Search with the JavaScript Client Object Model
 
-https://code.msdn.microsoft.com/sharepoint-2013-querying-a629b53b
+ https://code.msdn.microsoft.com/sharepoint-2013-querying-a629b53b
 
 
 ## Managed Metadata Navigation Video
@@ -142,3 +141,7 @@ https://technet.microsoft.com/en-us/library/jj613136(v=office.15).aspx
 ## Query variables in SharePoint Server 2013
 
 https://technet.microsoft.com/en-in/library/jj683123.aspx
+
+## Content Search Web Part does not display search results for anonymous users
+
+https://support.microsoft.com/en-us/help/3024778/content-search-web-part-does-not-display-search-results-for-anonymous-users
