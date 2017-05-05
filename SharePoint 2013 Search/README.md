@@ -116,7 +116,6 @@ http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2013/01/08/no-metadat
 ## Create and deploy custom entity extractors in SharePoint Server 2013
 
 https://technet.microsoft.com/en-US/library/jj219480(v=office.15).aspx
-
 ## Changing a Managed Metadata Site Column to Allow Multiple Values
 
 http://sympmarc.com/2012/08/03/changing-a-managed-metadata-column-to-allow-multiple-values/
@@ -127,7 +126,7 @@ https://www.eliostruyf.com/getting-past-the-cswp-item-limit-of-50-results/
  
 ## Automatically created managed properties in SharePoint Server 2013
 
-https://technet.microsoft.com/en-us/library/jj613136(v=office.15).aspx
+ https://technet.microsoft.com/en-us/library/jj613136(v=office.15).aspx
 
 ## Query variables in SharePoint Server 2013
 
@@ -176,3 +175,7 @@ https://blogs.technet.microsoft.com/tothesharepoint/2013/08/27/how-to-change-the
 ##  Enable a library or list as a catalog in SharePoint
 
 https://support.office.com/en-us/article/Enable-a-library-or-list-as-a-catalog-in-SharePoint-d1d377f3-77d5-4023-82d6-0a04e8c74ba4
+
+## Enable continuous crawls with PowerShell
+
+https://www.habaneroconsulting.com/insights/enable-continuous-crawls-with-powershell#.WQyBO4-cHcs
