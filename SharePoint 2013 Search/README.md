@@ -101,8 +101,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
 ## Creating a Document Rollup Using SharePoint 2013 Search
  https://blog.metrostarsystems.com/2016/04/21/creating-document-rollup-using-sharepoint-2013-search/ 
   
-## sharepoint enterprise - Include document sets in search results - SharePoint Stack Exchange
-https://sharepoint.stackexchange.com/questions/167292/include-document-sets-in-search-results
+## sharepoint enterprise - Include document sets in search results - SharePoint Stack Exchangehttps://sharepoint.stackexchange.com/questions/167292/include-document-sets-in-search-results
 
 ## What makes a SharePoint column searchable?
  
@@ -112,7 +111,7 @@ http://www.techmikael.com/2014/07/what-makes-sharepoint-column-searchable.html
 
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2013/01/08/no-metadata-no-problem-custom-entity-extraction-in-sharepoint-2013.aspx
  
-## Create and deploy custom entity extractors in SharePoint Server 2013
+ ## Create and deploy custom entity extractors in SharePoint Server 2013
 
 https://technet.microsoft.com/en-US/library/jj219480(v=office.15).aspx
 ## Changing a Managed Metadata Site Column to Allow Multiple Values
@@ -182,3 +181,7 @@ https://www.habaneroconsulting.com/insights/enable-continuous-crawls-with-powers
 ## Search Refiners with Managed Metadata
 
 https://cann0nf0dder.wordpress.com/2013/04/07/search-refiners-with-managed-metadata/
+
+## SharePoint 2013 Searching for a URL
+
+https://blogs.technet.microsoft.com/peter_dempsey/2014/04/08/sharepoint-2013-searching-for-a-url/
