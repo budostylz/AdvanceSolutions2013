@@ -100,8 +100,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
   https://blog.metrostarsystems.com/2011/10/03/jennys-sharepoint-tip-rollup-items-across-a-site-collection-by-creating-a-cross-list-data-view-web-part/
 
 ## Creating a Document Rollup Using SharePoint 2013 Search
- 
-https://blog.metrostarsystems.com/2016/04/21/creating-document-rollup-using-sharepoint-2013-search/ 
+ https://blog.metrostarsystems.com/2016/04/21/creating-document-rollup-using-sharepoint-2013-search/ 
   
 ## sharepoint enterprise - Include document sets in search results - SharePoint Stack Exchange
 
@@ -111,7 +110,7 @@ https://sharepoint.stackexchange.com/questions/167292/include-document-sets-in-s
 
 http://www.techmikael.com/2014/07/what-makes-sharepoint-column-searchable.html
 
-## Corey Roth [MVP]
+ ## Corey Roth [MVP]
 
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2013/01/08/no-metadata-no-problem-custom-entity-extraction-in-sharepoint-2013.aspx
 
@@ -170,3 +169,7 @@ https://technet.microsoft.com/en-us/library/gg576964.aspx
 ## Search & Display Events in SharePoint 2013 Using a CSWP & FullCalendar 
 
 http://www.aerieconsulting.com/blog/searching-for-and-displaying-events-in-sharepoint-2013-using-a-content-search-web-part-and-fullcalendar
+
+## How to change the way search results are displayed in SharePoint Server 2013
+
+https://blogs.technet.microsoft.com/tothesharepoint/2013/08/27/how-to-change-the-way-search-results-are-displayed-in-sharepoint-server-2013/
