@@ -100,7 +100,9 @@ http://tanveerkhan-sharepoint.blogspot.com/2015/06/creating-sharepoint-farm-envi
 
 http://www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-office-2007-aspx-2/
 
+## How to set up a product-centric website in SharePoint Server 2013
 
+https://blogs.technet.microsoft.com/tothesharepoint/2013/02/13/how-to-set-up-a-product-centric-website-in-sharepoint-server-2013/
 
 
 
