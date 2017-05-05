@@ -85,8 +85,7 @@ https://technet.microsoft.com/en-us/library/jj944947.aspx
 
 ## PowerShell Commands to find Default location of Search Index
 
-$ssi = Get-SPEnterpriseSearchServiceInstance 
-$ssi.Components | Select-Object IndexLocation
+$ssi = Get-SPEnterpriseSearchServiceInstance $ssi.Components | Select-Object IndexLocation
 
 ## SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-1
 https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-1/ 
@@ -96,7 +95,7 @@ https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint
 
 ## SharePoint 2013 Leverage Search to roll up images
 https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to-roll-up-images#.WOeLymYzXct
-
+ 
 ## Jenny’s SharePoint Tip: Rollup items across a site collection by creating a cross list data view web part.
 
   https://blog.metrostarsystems.com/2011/10/03/jennys-sharepoint-tip-rollup-items-across-a-site-collection-by-creating-a-cross-list-data-view-web-part/
@@ -160,3 +159,11 @@ http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2014/02/20/spc14-post
 ## Configure properties of the Search Results Web Part in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/gg549987.aspx
+
+## Configure properties of the Refinement Web Part in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/gg549985.aspx
+
+## Configure properties of the Search Navigation Web Part in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/gg576964.aspx
