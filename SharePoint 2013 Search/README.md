@@ -90,7 +90,6 @@ $ssi = Get-SPEnterpriseSearchServiceInstance $ssi.Components | Select-Object Ind
 ## SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-1
 https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-1/ 
 ## SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-2
-
 https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-2/
 
 ## SharePoint 2013 Leverage Search to roll up images
@@ -101,7 +100,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
   https://blog.metrostarsystems.com/2011/10/03/jennys-sharepoint-tip-rollup-items-across-a-site-collection-by-creating-a-cross-list-data-view-web-part/
 
 ## Creating a Document Rollup Using SharePoint 2013 Search
-
+ 
 https://blog.metrostarsystems.com/2016/04/21/creating-document-rollup-using-sharepoint-2013-search/ 
   
 ## sharepoint enterprise - Include document sets in search results - SharePoint Stack Exchange
@@ -167,3 +166,7 @@ https://technet.microsoft.com/en-us/library/gg549985.aspx
 ## Configure properties of the Search Navigation Web Part in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/gg576964.aspx
+
+## Search & Display Events in SharePoint 2013 Using a CSWP & FullCalendar 
+
+http://www.aerieconsulting.com/blog/searching-for-and-displaying-events-in-sharepoint-2013-using-a-content-search-web-part-and-fullcalendar
