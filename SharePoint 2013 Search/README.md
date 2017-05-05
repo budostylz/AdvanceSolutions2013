@@ -96,7 +96,6 @@ https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint
 https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to-roll-up-images#.WOeLymYzXct
  
 ## Jenny’s SharePoint Tip: Rollup items across a site collection by creating a cross list data view web part.
-
   https://blog.metrostarsystems.com/2011/10/03/jennys-sharepoint-tip-rollup-items-across-a-site-collection-by-creating-a-cross-list-data-view-web-part/
 
 ## Creating a Document Rollup Using SharePoint 2013 Search
@@ -107,7 +106,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
 https://sharepoint.stackexchange.com/questions/167292/include-document-sets-in-search-results
 
 ## What makes a SharePoint column searchable?
-
+ 
 http://www.techmikael.com/2014/07/what-makes-sharepoint-column-searchable.html
 
  ## Corey Roth [MVP]
@@ -173,3 +172,7 @@ http://www.aerieconsulting.com/blog/searching-for-and-displaying-events-in-share
 ## How to change the way search results are displayed in SharePoint Server 2013
 
 https://blogs.technet.microsoft.com/tothesharepoint/2013/08/27/how-to-change-the-way-search-results-are-displayed-in-sharepoint-server-2013/
+
+##  Enable a library or list as a catalog in SharePoint
+
+https://support.office.com/en-us/article/Enable-a-library-or-list-as-a-catalog-in-SharePoint-d1d377f3-77d5-4023-82d6-0a04e8c74ba4
