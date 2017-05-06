@@ -185,3 +185,7 @@ https://cann0nf0dder.wordpress.com/2013/04/07/search-refiners-with-managed-metad
 ## SharePoint 2013 Searching for a URL
 
 https://blogs.technet.microsoft.com/peter_dempsey/2014/04/08/sharepoint-2013-searching-for-a-url/
+ 
+## Manually request crawling and re-indexing of a site, a library or a list
+
+https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexing-of-a-site-a-library-or-a-list-9afa977d-39de-4321-b4ca-8c7c7e6d264e
