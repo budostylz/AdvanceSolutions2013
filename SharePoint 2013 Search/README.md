@@ -189,3 +189,7 @@ https://blogs.technet.microsoft.com/peter_dempsey/2014/04/08/sharepoint-2013-sea
 ## Manually request crawling and re-indexing of a site, a library or a list
 
 https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexing-of-a-site-a-library-or-a-list-9afa977d-39de-4321-b4ca-8c7c7e6d264e
+
+## How to change the way search results are displayed in SharePoint Server 2013
+
+https://blogs.technet.microsoft.com/tothesharepoint/2013/08/27/how-to-change-the-way-search-results-are-displayed-in-sharepoint-server-2013/
