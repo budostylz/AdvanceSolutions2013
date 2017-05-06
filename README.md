@@ -104,7 +104,9 @@ http://www.nothingbutsharepoint.com/2010/12/21/managed-metadata-columns-in-offic
 
 https://blogs.technet.microsoft.com/tothesharepoint/2013/02/13/how-to-set-up-a-product-centric-website-in-sharepoint-server-2013/
 
+## SharePoint IT Pro Blog
 
+https://blogs.technet.microsoft.com/tothesharepoint/
 
 
 
