@@ -193,3 +193,7 @@ https://support.office.com/en-us/article/Manually-request-crawling-and-re-indexi
 ## How to change the way search results are displayed in SharePoint Server 2013
 
 https://blogs.technet.microsoft.com/tothesharepoint/2013/08/27/how-to-change-the-way-search-results-are-displayed-in-sharepoint-server-2013/
+
+## Set up a Search Center in SharePoint 2013
+
+https://blogs.technet.microsoft.com/tothesharepoint/2013/10/29/set-up-a-search-center-in-sharepoint-2013/
