@@ -197,3 +197,7 @@ https://blogs.technet.microsoft.com/tothesharepoint/2013/08/27/how-to-change-the
 ## Set up a Search Center in SharePoint 2013
 
 https://blogs.technet.microsoft.com/tothesharepoint/2013/10/29/set-up-a-search-center-in-sharepoint-2013/
+ 
+ ## SharePoint 2013 Search: Creating a Custom Search Results Page
+ 
+ https://www.youtube.com/watch?v=ol8ZpzV1qVI
