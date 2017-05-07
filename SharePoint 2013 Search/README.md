@@ -141,7 +141,6 @@ https://www.itunity.com/article/sorting-search-results-managed-metadata-properti
 ## Making SharePoint Search Results Even Better For Your Users 
 
 https://www.cardinalsolutions.com/blog/2016/03/making-sharepoint-search-results-even-better-for-your-users
-
 ## Displaying SharePoint 2013 Search Results in a Table
 
 https://www.itunity.com/blog/displaying-sharepoint-2013-search-results-table-877
@@ -151,7 +150,7 @@ https://www.itunity.com/blog/displaying-sharepoint-2013-search-results-table-877
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2014/02/20/spc14-post-using-display-templates-to-format-search-results-as-a-grid.aspx
 
 ## Configure properties of the Search Results Web Part in SharePoint Server 2013
-
+ 
 https://technet.microsoft.com/en-us/library/gg549987.aspx
 
 ## Configure properties of the Refinement Web Part in SharePoint Server 2013
@@ -201,3 +200,7 @@ https://blogs.technet.microsoft.com/tothesharepoint/2013/10/29/set-up-a-search-c
  ## SharePoint 2013 Search: Creating a Custom Search Results Page
  
  https://www.youtube.com/watch?v=ol8ZpzV1qVI
+
+## The 100% way of automatically updating Result Types (with PowerShell)
+
+http://developeratwar.com/2015/09/the-100-way-of-automatically-updating-result-types-with-powershell/
