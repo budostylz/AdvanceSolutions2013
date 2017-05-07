@@ -215,3 +215,7 @@ http://www.techmikael.com/2014/12/the-100-way-of-automatically-updating.html
 ## Getting Started with the SharePoint Server Search Administration Object Model
 
 https://msdn.microsoft.com/en-us/library/ff628253.aspx
+
+## Plan to transform queries and order results in SharePoint 2013
+
+https://technet.microsoft.com/en-us/library/jj219620.aspx
