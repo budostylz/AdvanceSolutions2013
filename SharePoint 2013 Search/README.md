@@ -137,7 +137,6 @@ https://support.microsoft.com/en-us/help/3024778/content-search-web-part-does-no
 ## Sorting Search Results by Managed Metadata Properties
 
 https://www.itunity.com/article/sorting-search-results-managed-metadata-properties-1187
-
 ## Making SharePoint Search Results Even Better For Your Users 
 
 https://www.cardinalsolutions.com/blog/2016/03/making-sharepoint-search-results-even-better-for-your-users
@@ -148,7 +147,7 @@ https://www.itunity.com/blog/displaying-sharepoint-2013-search-results-table-877
 ## Corey Roth [MVP] 
 
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2014/02/20/spc14-post-using-display-templates-to-format-search-results-as-a-grid.aspx
-
+ 
 ## Configure properties of the Search Results Web Part in SharePoint Server 2013
  
 https://technet.microsoft.com/en-us/library/gg549987.aspx
@@ -204,3 +203,8 @@ https://blogs.technet.microsoft.com/tothesharepoint/2013/10/29/set-up-a-search-c
 ## The 100% way of automatically updating Result Types (with PowerShell)
 
 http://developeratwar.com/2015/09/the-100-way-of-automatically-updating-result-types-with-powershell/
+
+
+## The 100% way of automatically updating Result Types (on-prem only):(Managed Code)
+
+http://www.techmikael.com/2014/12/the-100-way-of-automatically-updating.html
