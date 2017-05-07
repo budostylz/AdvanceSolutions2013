@@ -6,6 +6,10 @@ https://msdn.microsoft.com/en-us/library/office/jj163300.aspx#bk_crawl
 
 https://technet.microsoft.com/en-us/library/dn342836.aspx
 
+## Microsoft.Office.Server.Search.Administration namespace
+
+https://msdn.microsoft.com/en-us/library/microsoft.office.server.search.administration.aspx
+
 ## Manage the search topology in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj219705.aspx
