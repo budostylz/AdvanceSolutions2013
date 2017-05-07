@@ -139,7 +139,6 @@ https://technet.microsoft.com/en-in/library/jj683123.aspx
 https://support.microsoft.com/en-us/help/3024778/content-search-web-part-does-not-display-search-results-for-anonymous-users
 
 ## Sorting Search Results by Managed Metadata Properties
-
 https://www.itunity.com/article/sorting-search-results-managed-metadata-properties-1187
 ## Making SharePoint Search Results Even Better For Your Users 
 
@@ -149,7 +148,7 @@ https://www.cardinalsolutions.com/blog/2016/03/making-sharepoint-search-results-
 https://www.itunity.com/blog/displaying-sharepoint-2013-search-results-table-877
 
 ## Corey Roth [MVP] 
-
+ 
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2014/02/20/spc14-post-using-display-templates-to-format-search-results-as-a-grid.aspx
  
 ## Configure properties of the Search Results Web Part in SharePoint Server 2013
@@ -212,3 +211,7 @@ http://developeratwar.com/2015/09/the-100-way-of-automatically-updating-result-t
 ## The 100% way of automatically updating Result Types (on-prem only):(Managed Code)
 
 http://www.techmikael.com/2014/12/the-100-way-of-automatically-updating.html
+
+## Getting Started with the SharePoint Server Search Administration Object Model
+
+https://msdn.microsoft.com/en-us/library/ff628253.aspx
