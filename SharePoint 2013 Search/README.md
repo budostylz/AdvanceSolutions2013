@@ -129,7 +129,6 @@ https://www.eliostruyf.com/getting-past-the-cswp-item-limit-of-50-results/
 ## Automatically created managed properties in SharePoint Server 2013
 
  https://technet.microsoft.com/en-us/library/jj613136(v=office.15).aspx
-
 ## Query variables in SharePoint Server 2013
 
 https://technet.microsoft.com/en-in/library/jj683123.aspx
@@ -140,7 +139,7 @@ https://support.microsoft.com/en-us/help/3024778/content-search-web-part-does-no
 
 ## Sorting Search Results by Managed Metadata Properties
 https://www.itunity.com/article/sorting-search-results-managed-metadata-properties-1187
-## Making SharePoint Search Results Even Better For Your Users 
+ ## Making SharePoint Search Results Even Better For Your Users 
 
 https://www.cardinalsolutions.com/blog/2016/03/making-sharepoint-search-results-even-better-for-your-users
 ## Displaying SharePoint 2013 Search Results in a Table
@@ -219,3 +218,8 @@ https://msdn.microsoft.com/en-us/library/ff628253.aspx
 ## Plan to transform queries and order results in SharePoint 2013
 
 https://technet.microsoft.com/en-us/library/jj219620.aspx
+
+## SharePoint Search–Excluding Headers, Footers, and Other Content from Search Results
+
+http://iedaddy.com/2010/02/sharepoint-searchexcluding-headers-footers-and-other-content-from-search-results/
+
