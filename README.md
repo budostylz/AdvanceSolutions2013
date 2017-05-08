@@ -108,7 +108,9 @@ https://blogs.technet.microsoft.com/tothesharepoint/2013/02/13/how-to-set-up-a-p
 
 https://blogs.technet.microsoft.com/tothesharepoint/
 
+## A better way to implement RSS feeds in SharePoint 2013/Online
 
+http://www.techmikael.com/2015/03/a-better-way-to-implement-rss-feeds-in.html
 
 
 
