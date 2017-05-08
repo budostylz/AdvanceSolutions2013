@@ -112,7 +112,13 @@ https://blogs.technet.microsoft.com/tothesharepoint/
 
 http://www.techmikael.com/2015/03/a-better-way-to-implement-rss-feeds-in.html
 
+## Managed properties in SharePoint 2013
 
+https://radutut.wordpress.com/2013/05/01/managed-properties-in-sharepoint-2013/
+
+## Automatically created managed properties*
+
+http://www.lestersconyers.com/automatically-created-managed-properties/
 
 
 
