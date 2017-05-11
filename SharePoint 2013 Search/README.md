@@ -111,7 +111,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
  
 http://www.techmikael.com/2014/07/what-makes-sharepoint-column-searchable.html
 
- ## Using Display Templates to format search results as a grid 
+ ## No metadata? No problem! Custom entity extraction in SharePoint 2013  
 
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2013/01/08/no-metadata-no-problem-custom-entity-extraction-in-sharepoint-2013.aspx
  
@@ -146,7 +146,7 @@ https://www.cardinalsolutions.com/blog/2016/03/making-sharepoint-search-results-
 
 https://www.itunity.com/blog/displaying-sharepoint-2013-search-results-table-877
 
-## Corey Roth [MVP] 
+## Using Display Templates to format search results as a grid  
  
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2014/02/20/spc14-post-using-display-templates-to-format-search-results-as-a-grid.aspx
  
