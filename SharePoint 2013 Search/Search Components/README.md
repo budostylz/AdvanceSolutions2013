@@ -26,3 +26,7 @@ Reset the search index in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj219652.aspx
 
+## Correctly including scripts into your display templates
+
+https://www.eliostruyf.com/correctly-including-scripts-display-templates/
+
