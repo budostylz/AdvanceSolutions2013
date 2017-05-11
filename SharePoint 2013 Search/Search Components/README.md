@@ -21,3 +21,8 @@ https://sapanjaiswal.wordpress.com/2014/01/03/types-of-crawl-in-sharepoint-2013/
 ## Reset the search index in SharePoint Server 2013
 
 Reset the search index in SharePoint Server 2013
+
+## Reset the search index in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj219652.aspx
+
