@@ -17,3 +17,7 @@ https://social.technet.microsoft.com/wiki/contents/articles/37424.jquery-tabs-us
 ## Types of Crawl in SharePoint 2013
 
 https://sapanjaiswal.wordpress.com/2014/01/03/types-of-crawl-in-sharepoint-2013/
+
+## Reset the search index in SharePoint Server 2013
+
+Reset the search index in SharePoint Server 2013
