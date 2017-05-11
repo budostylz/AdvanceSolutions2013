@@ -81,7 +81,7 @@ https://technet.microsoft.com/en-us/library/dn194311.aspx
 
 https://msdn.microsoft.com/en-us/library/office/jj945138.aspx
 
-  ## Display template reference in SharePoint Server 2013
+## Display template reference in SharePoint Server 2013
 
 https://technet.microsoft.com/en-us/library/jj944947.aspx
  
@@ -111,7 +111,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
  
 http://www.techmikael.com/2014/07/what-makes-sharepoint-column-searchable.html
 
- ## Corey Roth [MVP]
+ ## Using Display Templates to format search results as a grid 
 
 http://www.dotnetmafia.com/blogs/dotnettipoftheday/archive/2013/01/08/no-metadata-no-problem-custom-entity-extraction-in-sharepoint-2013.aspx
  
