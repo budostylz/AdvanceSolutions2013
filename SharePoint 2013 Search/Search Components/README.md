@@ -30,3 +30,6 @@ https://technet.microsoft.com/en-us/library/jj219652.aspx
 
 https://www.eliostruyf.com/correctly-including-scripts-display-templates/
 
+## How to add sorting in display templates
+
+https://www.eliostruyf.com/add-sorting-display-templates/
