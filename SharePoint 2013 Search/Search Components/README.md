@@ -33,3 +33,7 @@ https://www.eliostruyf.com/correctly-including-scripts-display-templates/
 ## How to add sorting in display templates
 
 https://www.eliostruyf.com/add-sorting-display-templates/
+
+## How can you share script members between control template and item template
+
+https://sharepoint.stackexchange.com/questions/112637/how-can-you-share-script-members-between-control-template-and-item-template
