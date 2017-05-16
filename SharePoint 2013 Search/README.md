@@ -223,3 +223,6 @@ https://technet.microsoft.com/en-us/library/jj219620.aspx
 
 http://iedaddy.com/2010/02/sharepoint-searchexcluding-headers-footers-and-other-content-from-search-results/
 
+## FACETED NAVIGATION tab
+
+https://technet.microsoft.com/en-us/library/jj679902.aspx#BKMK_EnableATermSetForFacetedNavigation
