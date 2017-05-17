@@ -120,6 +120,12 @@ https://radutut.wordpress.com/2013/05/01/managed-properties-in-sharepoint-2013/
 
 http://www.lestersconyers.com/automatically-created-managed-properties/
 
+## Corrupt site column cannot be deleted
+
+http://blog.sharepointsite.co.uk/2011/05/corrupt-site-column-cannot-be-deleted.html
+
+ SELECT * FROM [WSS_Content_ECMCC].[dbo].[ContentTypes]WHERE Definition LIKE ('%428bca1f%')
+ DELETE FROM [WSS_Content_ECMCC].[dbo].[ContentTypes]WHERE Definition LIKE ('%428bca1f%')
 
 
 
