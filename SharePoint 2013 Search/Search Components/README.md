@@ -37,3 +37,7 @@ https://www.eliostruyf.com/add-sorting-display-templates/
 ## How can you share script members between control template and item template
 
 https://sharepoint.stackexchange.com/questions/112637/how-can-you-share-script-members-between-control-template-and-item-template
+ 
+## Refiners for Managed Metadata Columns in SharePoint Online
+
+https://blogs.msdn.microsoft.com/aatishblogs/2014/02/02/refiners-for-managed-metadata-columns-in-sharepoint-online/
