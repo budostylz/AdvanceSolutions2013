@@ -41,3 +41,7 @@ https://sharepoint.stackexchange.com/questions/112637/how-can-you-share-script-m
 ## Refiners for Managed Metadata Columns in SharePoint Online
 
 https://blogs.msdn.microsoft.com/aatishblogs/2014/02/02/refiners-for-managed-metadata-columns-in-sharepoint-online/
+
+## How To Customize SharePoint 2013 Search Results Using Query Rules and Result Sources
+
+https://blogs.technet.microsoft.com/mspfe/2013/02/01/how-to-customize-sharepoint-2013-search-results-using-query-rules-and-result-sources/
