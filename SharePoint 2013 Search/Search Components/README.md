@@ -49,3 +49,7 @@ https://blogs.technet.microsoft.com/mspfe/2013/02/01/how-to-customize-sharepoint
 ## Powershell script to create search Managed Properties from CSV
 
 https://gallery.technet.microsoft.com/office/Powershell-script-to-250c5aa6
+
+## Get-SPEnterpriseSearchMetadataManagedProperty
+
+https://technet.microsoft.com/en-us/library/ff607560.aspx
