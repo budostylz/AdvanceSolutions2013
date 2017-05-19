@@ -45,3 +45,7 @@ https://blogs.msdn.microsoft.com/aatishblogs/2014/02/02/refiners-for-managed-met
 ## How To Customize SharePoint 2013 Search Results Using Query Rules and Result Sources
 
 https://blogs.technet.microsoft.com/mspfe/2013/02/01/how-to-customize-sharepoint-2013-search-results-using-query-rules-and-result-sources/
+
+## How to Create Managed Property in SharePoint 2013 using PowerShell 
+
+http://sharepointpals.com/post/How-to-Create-Managed-Property-in-SharePoint-2013-using-PowerShell
