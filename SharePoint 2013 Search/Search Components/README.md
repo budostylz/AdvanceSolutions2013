@@ -53,3 +53,7 @@ https://gallery.technet.microsoft.com/office/Powershell-script-to-250c5aa6
 ## Get-SPEnterpriseSearchMetadataManagedProperty
 
 https://technet.microsoft.com/en-us/library/ff607560.aspx
+
+## Creating Refinable and Sortable Managed Properties in Sites and Site Collections in SharePoint 2013
+
+https://samlman.wordpress.com/2015/03/02/creating-refinable-and-sortable-managed-properties-in-sites-and-site-collections-in-sharepoint-2013/
