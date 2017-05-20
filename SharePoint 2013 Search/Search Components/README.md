@@ -58,6 +58,3 @@ https://technet.microsoft.com/en-us/library/ff607560.aspx
 
 https://samlman.wordpress.com/2015/03/02/creating-refinable-and-sortable-managed-properties-in-sites-and-site-collections-in-sharepoint-2013/
 
-## Refiners for Managed Metadata Columns in SharePoint Online
-
-https://blogs.msdn.microsoft.com/aatishblogs/2014/02/02/refiners-for-managed-metadata-columns-in-sharepoint-online/
