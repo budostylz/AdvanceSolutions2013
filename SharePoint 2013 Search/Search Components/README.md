@@ -58,3 +58,6 @@ https://technet.microsoft.com/en-us/library/ff607560.aspx
 
 https://samlman.wordpress.com/2015/03/02/creating-refinable-and-sortable-managed-properties-in-sites-and-site-collections-in-sharepoint-2013/
 
+## New documents not showing in search results page's
+
+https://sharepoint.stackexchange.com/questions/91616/new-documents-not-showing-in-search-results-pages
