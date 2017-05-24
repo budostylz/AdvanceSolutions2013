@@ -61,3 +61,7 @@ https://samlman.wordpress.com/2015/03/02/creating-refinable-and-sortable-managed
 ## New documents not showing in search results page's
 
 https://sharepoint.stackexchange.com/questions/91616/new-documents-not-showing-in-search-results-pages
+
+## SharePoint 2013: Creating a Date Refiner Using the Year
+
+http://blogs.askcts.com/2014/04/09/creating-a-date-refiner-using-the-year-2/
