@@ -65,3 +65,7 @@ https://sharepoint.stackexchange.com/questions/91616/new-documents-not-showing-i
 ## SharePoint 2013: Creating a Date Refiner Using the Year
 
 http://blogs.askcts.com/2014/04/09/creating-a-date-refiner-using-the-year-2/
+
+## How can I achieve the best freshness of search results? Introducing Continuous Crawls for SharePoint
+
+https://blogs.technet.microsoft.com/tothesharepoint/2012/09/14/how-can-i-achieve-the-best-freshness-of-search-results-introducing-continuous-crawls-for-sharepoint/
