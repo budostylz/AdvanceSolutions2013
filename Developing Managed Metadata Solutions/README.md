@@ -30,3 +30,7 @@ http://www.c-sharpcorner.com/UploadFile/anavijai/pin-term-versus-reuse-terms-in-
 ## Create and manage terms within term sets
 
 https://support.office.com/en-us/article/Create-and-manage-terms-within-term-sets-66b8e643-6234-4447-946e-e369112d2320#__toc266880361
+
+## A Brief Introduction to Enterprise Metadata Management for Microsoft SharePoint Server 2010 Developers
+
+https://msdn.microsoft.com/en-us/library/office/ee832800(v=office.14).aspx
