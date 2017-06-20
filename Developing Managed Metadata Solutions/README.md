@@ -34,3 +34,7 @@ https://support.office.com/en-us/article/Create-and-manage-terms-within-term-set
 ## A Brief Introduction to Enterprise Metadata Management for Microsoft SharePoint Server 2010 Developers
 
 https://msdn.microsoft.com/en-us/library/office/ee832800(v=office.14).aspx
+
+## Not able to update the taxonomy term from the elevated code block even though the app pool account is a term store administrator ?
+
+https://social.technet.microsoft.com/Forums/sharepoint/en-US/c945098f-9d82-419d-9962-152019f2de32/not-able-to-update-the-taxonomy-term-from-the-elevated-code-block-even-though-the-app-pool-account?forum=sharepointgeneralprevious
