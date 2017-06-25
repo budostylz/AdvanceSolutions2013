@@ -7,7 +7,6 @@ https://msdn.microsoft.com/en-us/library/office/jj945138.aspx
 https://technet.microsoft.com/en-us/library/jj944947.aspx
 
 ## SharePoint 2013 Search REST API
-
 https://blogs.msdn.microsoft.com/nadeemis/2012/08/24/sharepoint-2013-search-rest-api/
 
 ## JQuery Tabs Using Content Search Web Part In SharePoint Server 2013
@@ -18,7 +17,7 @@ https://social.technet.microsoft.com/wiki/contents/articles/37424.jquery-tabs-us
 https://sapanjaiswal.wordpress.com/2014/01/03/types-of-crawl-in-sharepoint-2013/
 
 ## Reset the search index in SharePoint Server 2013
-
+ 
 Reset the search index in SharePoint Server 2013
 
 ## Reset the search index in SharePoint Server 2013
@@ -72,3 +71,7 @@ https://blogs.technet.microsoft.com/tothesharepoint/2012/09/14/how-can-i-achieve
 ## Rollup SharePoint Sites using SharePoint 2013 Search and Content Search 
 
 https://www.youtube.com/watch?v=KAaYKe9HaDU
+
+## Advanced Paging with SharePoint Content Search Web Part Display Templates
+
+https://sharepointinterface.com/2015/05/03/advanced-paging-with-sharepoint-content-search-web-part-display-templates/
