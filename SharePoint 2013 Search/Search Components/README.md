@@ -13,7 +13,6 @@ https://blogs.msdn.microsoft.com/nadeemis/2012/08/24/sharepoint-2013-search-rest
 ## JQuery Tabs Using Content Search Web Part In SharePoint Server 2013
 
 https://social.technet.microsoft.com/wiki/contents/articles/37424.jquery-tabs-using-content-search-web-part-in-sharepoint-server-2013.aspx
-
 ## Types of Crawl in SharePoint 2013
 
 https://sapanjaiswal.wordpress.com/2014/01/03/types-of-crawl-in-sharepoint-2013/
@@ -23,7 +22,7 @@ https://sapanjaiswal.wordpress.com/2014/01/03/types-of-crawl-in-sharepoint-2013/
 Reset the search index in SharePoint Server 2013
 
 ## Reset the search index in SharePoint Server 2013
-
+ 
 https://technet.microsoft.com/en-us/library/jj219652.aspx
 
 ## Correctly including scripts into your display templates
@@ -69,3 +68,7 @@ http://blogs.askcts.com/2014/04/09/creating-a-date-refiner-using-the-year-2/
 ## How can I achieve the best freshness of search results? Introducing Continuous Crawls for SharePoint
 
 https://blogs.technet.microsoft.com/tothesharepoint/2012/09/14/how-can-i-achieve-the-best-freshness-of-search-results-introducing-continuous-crawls-for-sharepoint/
+
+## Rollup SharePoint Sites using SharePoint 2013 Search and Content Search 
+
+https://www.youtube.com/watch?v=KAaYKe9HaDU
