@@ -15,7 +15,6 @@ https://social.technet.microsoft.com/wiki/contents/articles/37424.jquery-tabs-us
 ## Types of Crawl in SharePoint 2013
 
 https://sapanjaiswal.wordpress.com/2014/01/03/types-of-crawl-in-sharepoint-2013/
-
 ## Reset the search index in SharePoint Server 2013
  
 Reset the search index in SharePoint Server 2013
@@ -26,7 +25,7 @@ https://technet.microsoft.com/en-us/library/jj219652.aspx
 
 ## Correctly including scripts into your display templates
 
-https://www.eliostruyf.com/correctly-including-scripts-display-templates/
+ https://www.eliostruyf.com/correctly-including-scripts-display-templates/
 
 ## How to add sorting in display templates
 
@@ -75,3 +74,7 @@ https://www.youtube.com/watch?v=KAaYKe9HaDU
 ## Advanced Paging with SharePoint Content Search Web Part Display Templates
 
 https://sharepointinterface.com/2015/05/03/advanced-paging-with-sharepoint-content-search-web-part-display-templates/
+
+## Using the SharePoint search Query APIs
+
+https://dev.office.com/sharepoint/docs/general-development/using-the-sharepoint-search-query-apis
