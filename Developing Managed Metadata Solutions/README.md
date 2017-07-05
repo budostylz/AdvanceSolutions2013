@@ -38,3 +38,8 @@ https://msdn.microsoft.com/en-us/library/office/ee832800(v=office.14).aspx
 ## Not able to update the taxonomy term from the elevated code block even though the app pool account is a term store administrator ?
 
 https://social.technet.microsoft.com/Forums/sharepoint/en-US/c945098f-9d82-419d-9962-152019f2de32/not-able-to-update-the-taxonomy-term-from-the-elevated-code-block-even-though-the-app-pool-account?forum=sharepointgeneralprevious
+
+
+## PowerShell script to import Term-sets from .csv file to Term-Store
+
+https://gallery.technet.microsoft.com/office/PowerShell-script-to-241e2d4d
