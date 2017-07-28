@@ -46,3 +46,7 @@ https://gallery.technet.microsoft.com/office/PowerShell-script-to-241e2d4d
 ## Get/Set Managed Metadata Column Values using PowerShell 
 
 http://www.sharepointdiary.com/2015/12/read-update-managed-metadata-column-values-using-powershell.html
+
+## SharePoint 2010: Problem Adding Term Sets with ‘&’ in their name
+
+https://sharepointdragons.com/2013/03/05/sharepoint-2010-problem-adding-term-sets-with-in-their-name/
