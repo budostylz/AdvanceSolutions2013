@@ -21,3 +21,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
 ## Content Search Web Part does not display search results for anonymous users
 
 https://support.microsoft.com/en-us/help/3024778/content-search-web-part-does-not-display-search-results-for-anonymous-users
+
+## JQuery Tabs Using Content Search Web Part In SharePoint Server 2013
+
+https://social.technet.microsoft.com/wiki/contents/articles/37424.jquery-tabs-using-content-search-web-part-in-sharepoint-server-2013.aspx
