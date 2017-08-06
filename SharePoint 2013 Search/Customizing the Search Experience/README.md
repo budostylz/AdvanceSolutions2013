@@ -46,3 +46,7 @@ http://blogs.askcts.com/2014/04/09/creating-a-date-refiner-using-the-year-2/
 ## How to add sorting in display templates
 
 https://www.eliostruyf.com/add-sorting-display-templates/
+
+## jQuery UI tabbing and accordion display templates
+
+https://www.eliostruyf.com/jquery-ui-tabbing-accordion-display-templates/
