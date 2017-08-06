@@ -13,9 +13,7 @@ https://blogs.msdn.microsoft.com/nadeemis/2012/08/24/sharepoint-2013-search-rest
 ## Types of Crawl in SharePoint 2013
 
 https://sapanjaiswal.wordpress.com/2014/01/03/types-of-crawl-in-sharepoint-2013/
-## Reset the search index in SharePoint Server 2013
- 
-Reset the search index in SharePoint Server 2013
+
 
 ## Reset the search index in SharePoint Server 2013
  
@@ -25,9 +23,6 @@ https://technet.microsoft.com/en-us/library/jj219652.aspx
 
  https://www.eliostruyf.com/correctly-including-scripts-display-templates/
 
-## How to add sorting in display templates
-
-https://www.eliostruyf.com/add-sorting-display-templates/
 
 ## How can you share script members between control template and item template
 
@@ -41,9 +36,6 @@ https://blogs.msdn.microsoft.com/aatishblogs/2014/02/02/refiners-for-managed-met
 
 https://blogs.technet.microsoft.com/mspfe/2013/02/01/how-to-customize-sharepoint-2013-search-results-using-query-rules-and-result-sources/
 
-## Powershell script to create search Managed Properties from CSV
-
-https://gallery.technet.microsoft.com/office/Powershell-script-to-250c5aa6
 
 ## Get-SPEnterpriseSearchMetadataManagedProperty
 
@@ -57,21 +49,11 @@ https://samlman.wordpress.com/2015/03/02/creating-refinable-and-sortable-managed
 
 https://sharepoint.stackexchange.com/questions/91616/new-documents-not-showing-in-search-results-pages
 
-## SharePoint 2013: Creating a Date Refiner Using the Year
-
-http://blogs.askcts.com/2014/04/09/creating-a-date-refiner-using-the-year-2/
 
 ## How can I achieve the best freshness of search results? Introducing Continuous Crawls for SharePoint
 
 https://blogs.technet.microsoft.com/tothesharepoint/2012/09/14/how-can-i-achieve-the-best-freshness-of-search-results-introducing-continuous-crawls-for-sharepoint/
 
-## Rollup SharePoint Sites using SharePoint 2013 Search and Content Search 
-
-https://www.youtube.com/watch?v=KAaYKe9HaDU
-
-## Advanced Paging with SharePoint Content Search Web Part Display Templates
-
-https://sharepointinterface.com/2015/05/03/advanced-paging-with-sharepoint-content-search-web-part-display-templates/
 
 ## Using the SharePoint search Query APIs
 
