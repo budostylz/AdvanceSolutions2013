@@ -58,3 +58,7 @@ https://blogs.technet.microsoft.com/tothesharepoint/2012/09/14/how-can-i-achieve
 ## Using the SharePoint search Query APIs
 
 https://dev.office.com/sharepoint/docs/general-development/using-the-sharepoint-search-query-apis
+
+## SHAREPOINT 2013 KEYWORD QUERY (KQL) CONTENT CLASS PROPERTY RESTRICTIONS
+
+http://seventhsensemaker.blogspot.com/2014/01/sharepoint-2013-keyword-query-kql.html
