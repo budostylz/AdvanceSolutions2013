@@ -50,3 +50,7 @@ https://www.eliostruyf.com/add-sorting-display-templates/
 ## jQuery UI tabbing and accordion display templates
 
 https://www.eliostruyf.com/jquery-ui-tabbing-accordion-display-templates/
+
+## Adding a Tabbed View to A Web Part Page Using jQueryUI
+
+http://sympmarc.com/2011/11/09/adding-a-tabbed-view-to-a-web-part-page-using-jqueryui/
