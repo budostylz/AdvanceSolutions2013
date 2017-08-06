@@ -25,3 +25,7 @@ https://support.microsoft.com/en-us/help/3024778/content-search-web-part-does-no
 ## JQuery Tabs Using Content Search Web Part In SharePoint Server 2013
 
 https://social.technet.microsoft.com/wiki/contents/articles/37424.jquery-tabs-using-content-search-web-part-in-sharepoint-server-2013.aspx
+
+## Rollup SharePoint Sites using SharePoint 2013 Search and Content Search
+
+https://www.youtube.com/watch?v=KAaYKe9HaDU
