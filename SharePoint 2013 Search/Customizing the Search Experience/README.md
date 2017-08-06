@@ -29,3 +29,20 @@ https://social.technet.microsoft.com/wiki/contents/articles/37424.jquery-tabs-us
 ## Rollup SharePoint Sites using SharePoint 2013 Search and Content Search
 
 https://www.youtube.com/watch?v=KAaYKe9HaDU
+
+## Powershell script to create search Managed Properties from CSV
+
+https://gallery.technet.microsoft.com/office/Powershell-script-to-250c5aa6
+
+## Advanced Paging with SharePoint Content Search Web Part Display Templates
+
+https://sharepointinterface.com/2015/05/03/advanced-paging-with-sharepoint-content-search-web-part-display-templates/
+
+
+## SharePoint 2013: Creating a Date Refiner Using the Year
+
+http://blogs.askcts.com/2014/04/09/creating-a-date-refiner-using-the-year-2/
+
+## How to add sorting in display templates
+
+https://www.eliostruyf.com/add-sorting-display-templates/
