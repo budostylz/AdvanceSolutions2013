@@ -218,3 +218,8 @@ http://iedaddy.com/2010/02/sharepoint-searchexcluding-headers-footers-and-other-
 ## FACETED NAVIGATION tab
 
 https://technet.microsoft.com/en-us/library/jj679902.aspx#BKMK_EnableATermSetForFacetedNavigation
+
+## Beware crawling the non-Default zone for a SharePoint 2013 Web Application
+
+https://blogs.msdn.microsoft.com/sharepoint_strategery/2013/02/20/beware-crawling-the-non-default-zone-for-a-sharepoint-2013-web-application/
+
