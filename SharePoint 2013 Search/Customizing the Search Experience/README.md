@@ -21,7 +21,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
 ## Content Search Web Part does not display search results for anonymous users
  
 https://support.microsoft.com/en-us/help/3024778/content-search-web-part-does-not-display-search-results-for-anonymous-users
-
+ 
 ## JQuery Tabs Using Content Search Web Part In SharePoint Server 2013
 
 https://social.technet.microsoft.com/wiki/contents/articles/37424.jquery-tabs-using-content-search-web-part-in-sharepoint-server-2013.aspx
@@ -72,3 +72,9 @@ https://www.eliostruyf.com/correctly-including-scripts-display-templates/
 ## SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-1
 
 https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-1/
+
+## How can you share script members between control template and item template
+
+https://sharepoint.stackexchange.com/questions/112637/how-can-you-share-script-members-between-control-template-and-item-template
+
+
