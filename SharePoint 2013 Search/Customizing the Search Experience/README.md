@@ -19,7 +19,7 @@ https://www.habaneroconsulting.com/insights/sharepoint-2013---leverage-search-to
   https://blog.metrostarsystems.com/2011/10/03/jennys-sharepoint-tip-rollup-items-across-a-site-collection-by-creating-a-cross-list-data-view-web-part/
   
 ## Content Search Web Part does not display search results for anonymous users
-
+ 
 https://support.microsoft.com/en-us/help/3024778/content-search-web-part-does-not-display-search-results-for-anonymous-users
 
 ## JQuery Tabs Using Content Search Web Part In SharePoint Server 2013
@@ -68,3 +68,7 @@ http://paulryan.com.au/2015/increase-search-result-limit-beyond-50/
 ## Correctly including scripts into your display templates
 
 https://www.eliostruyf.com/correctly-including-scripts-display-templates/
+
+## SharePoint 2013 Customize Display Template for Content By Search Web Part (CSWP) Part-1
+
+https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint-2013-customize-display-template-for-content-by-search-web-part-cswp-part-1/
