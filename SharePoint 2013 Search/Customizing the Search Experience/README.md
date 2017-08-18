@@ -60,3 +60,7 @@ http://sympmarc.com/2011/11/09/adding-a-tabbed-view-to-a-web-part-page-using-jqu
 ## Getting past the CSWP item limit of 50 results
 
 https://www.eliostruyf.com/getting-past-the-cswp-item-limit-of-50-results/
+
+## Increase Search Result Limit Beyond 50
+
+http://paulryan.com.au/2015/increase-search-result-limit-beyond-50/
