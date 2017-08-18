@@ -56,3 +56,7 @@ https://www.eliostruyf.com/jquery-ui-tabbing-accordion-display-templates/
 ## Adding a Tabbed View to A Web Part Page Using jQueryUI
 
 http://sympmarc.com/2011/11/09/adding-a-tabbed-view-to-a-web-part-page-using-jqueryui/
+
+## Getting past the CSWP item limit of 50 results
+
+https://www.eliostruyf.com/getting-past-the-cswp-item-limit-of-50-results/
