@@ -28,7 +28,9 @@ https://social.technet.microsoft.com/wiki/contents/articles/37424.jquery-tabs-us
 
 ## Rollup SharePoint Sites using SharePoint 2013 Search and Content Search
 
-https://www.youtube.com/watch?v=KAaYKe9HaDU
+https://www.youtube.com/watch?v=KAaYKe9HaDU 
+
+path:"http://domain/sites/site" contentclass:STS_Web  SiteTitle<>{Site.URL}
 
 ## Powershell script to create search Managed Properties from CSV
 
