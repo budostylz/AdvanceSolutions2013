@@ -64,3 +64,7 @@ https://www.eliostruyf.com/getting-past-the-cswp-item-limit-of-50-results/
 ## Increase Search Result Limit Beyond 50
 
 http://paulryan.com.au/2015/increase-search-result-limit-beyond-50/
+
+## Correctly including scripts into your display templates
+
+https://www.eliostruyf.com/correctly-including-scripts-display-templates/
