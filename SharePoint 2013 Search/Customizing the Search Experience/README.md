@@ -25,7 +25,7 @@ https://support.microsoft.com/en-us/help/3024778/content-search-web-part-does-no
 ## JQuery Tabs Using Content Search Web Part In SharePoint Server 2013
 
 https://social.technet.microsoft.com/wiki/contents/articles/37424.jquery-tabs-using-content-search-web-part-in-sharepoint-server-2013.aspx
-
+ 
 ## Rollup SharePoint Sites using SharePoint 2013 Search and Content Search
 
 https://www.youtube.com/watch?v=KAaYKe9HaDU 
@@ -77,4 +77,11 @@ https://blogs.technet.microsoft.com/sharepoint_quick_reads/2013/08/01/sharepoint
 
 https://sharepoint.stackexchange.com/questions/112637/how-can-you-share-script-members-between-control-template-and-item-template
 
+## Manage query suggestions in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj721441.aspx
+ 
+## Create and deploy custom entity extractors in SharePoint Server 2013
+
+https://technet.microsoft.com/en-us/library/jj219480.aspx
 
