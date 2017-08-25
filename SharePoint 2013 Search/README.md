@@ -223,3 +223,6 @@ https://technet.microsoft.com/en-us/library/jj679902.aspx#BKMK_EnableATermSetFor
 
 https://blogs.msdn.microsoft.com/sharepoint_strategery/2013/02/20/beware-crawling-the-non-default-zone-for-a-sharepoint-2013-web-application/
 
+## SharePoint 2013 Search Settings and Search drop down menu
+
+https://en.share-gate.com/blog/sharepoint-2013-search-settings-and-search-box-drop-down-menu
