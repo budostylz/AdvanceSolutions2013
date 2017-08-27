@@ -88,3 +88,8 @@ https://technet.microsoft.com/en-us/library/jj219480.aspx
 ## Change query for the default search result page (osssearchresults.aspx) in SharePoint 2013?
 
 https://sharepoint.stackexchange.com/questions/98548/change-query-for-the-default-search-result-page-osssearchresults-aspx-in-share
+
+## How to change the text that is displayed in the Search Box Web Part in SharePoint Server 2013
+
+https://blogs.technet.microsoft.com/tothesharepoint/2013/09/18/how-to-change-the-text-that-is-displayed-in-the-search-box-web-part-in-sharepoint-server-2013/
+
