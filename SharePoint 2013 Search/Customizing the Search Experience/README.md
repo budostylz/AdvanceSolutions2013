@@ -85,3 +85,6 @@ https://technet.microsoft.com/en-us/library/jj721441.aspx
 
 https://technet.microsoft.com/en-us/library/jj219480.aspx
 
+## Change query for the default search result page (osssearchresults.aspx) in SharePoint 2013?
+
+https://sharepoint.stackexchange.com/questions/98548/change-query-for-the-default-search-result-page-osssearchresults-aspx-in-share
