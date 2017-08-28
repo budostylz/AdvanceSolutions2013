@@ -96,3 +96,7 @@ https://blogs.technet.microsoft.com/tothesharepoint/2013/09/18/how-to-change-the
 ## How can I add a site title refiner?
 
 https://sharepoint.stackexchange.com/questions/109409/how-can-i-add-a-site-title-refiner
+
+## How to change the text that is displayed in the Search Box Web Part in SharePoint Server 2013
+
+https://blogs.technet.microsoft.com/tothesharepoint/2013/09/18/how-to-change-the-text-that-is-displayed-in-the-search-box-web-part-in-sharepoint-server-2013/
