@@ -79,7 +79,12 @@ https://sharepoint.stackexchange.com/questions/112637/how-can-you-share-script-m
 
 ## Manage query suggestions in SharePoint Server 2013
 
-https://technet.microsoft.com/en-us/library/jj721441.aspx
+https://technet.microsoft.com/en-us/library/jj721441.aspx 
+
+## Query Suggestions in SharePoint 2013
+
+http://www.c-sharpcorner.com/UploadFile/40e97e/query-suggestions-in-sharepoint-2013/
+
  
 ## Create and deploy custom entity extractors in SharePoint Server 2013
 
