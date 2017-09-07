@@ -226,3 +226,7 @@ https://blogs.msdn.microsoft.com/sharepoint_strategery/2013/02/20/beware-crawlin
 ## SharePoint 2013 Search Settings and Search drop down menu
 
 https://en.share-gate.com/blog/sharepoint-2013-search-settings-and-search-box-drop-down-menu
+
+## ManagedProperty members
+
+https://msdn.microsoft.com/en-us/library/microsoft.office.server.search.administration.managedproperty_members.aspx
