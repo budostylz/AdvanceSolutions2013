@@ -235,4 +235,10 @@ https://msdn.microsoft.com/en-us/library/microsoft.office.server.search.administ
 
 http://www.c-sharpcorner.com/blogs/start-the-full-crwal-in-sharepoint-2013-using-powershell
 
+## SharePointContentSource members
+
+https://msdn.microsoft.com/en-us/library/microsoft.office.server.search.administration.sharepointcontentsource_members.aspx
+
+
+
 
