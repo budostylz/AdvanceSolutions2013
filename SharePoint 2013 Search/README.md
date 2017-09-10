@@ -230,3 +230,9 @@ https://en.share-gate.com/blog/sharepoint-2013-search-settings-and-search-box-dr
 ## ManagedProperty members
 
 https://msdn.microsoft.com/en-us/library/microsoft.office.server.search.administration.managedproperty_members.aspx
+
+## Start The Full Crawl In SharePoint 2013 Using PowerShell
+
+http://www.c-sharpcorner.com/blogs/start-the-full-crwal-in-sharepoint-2013-using-powershell
+
+
